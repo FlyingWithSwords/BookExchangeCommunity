@@ -1,4 +1,5 @@
 # BookExchangeCommunity
+<img src="src/main/webapp/images/BookLogo1.png"/><img src="src/main/webapp/images/BookLogo1.png"/>
 
 #### 介绍
 图书交流网，与读者共享阅读的乐趣！
