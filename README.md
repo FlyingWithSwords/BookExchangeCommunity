@@ -1,5 +1,5 @@
 # BookExchangeCommunity
-<img src="src/main/webapp/images/logo.png" width="120px" align=center/>
+<div align=center><img src="src/main/webapp/images/logo.png" width="360px"/></div>
 
 #### 介绍
 图书交流网，与读者共享阅读的乐趣！
