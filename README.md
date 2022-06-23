@@ -11,12 +11,12 @@
 - 管理员较用户来说，其管理页面的权限范围更广，除了用户所具有的管理权限，可增删改查的权限有员工信息、新闻公告、用户交流记录、图书信息、用户账单、用户积分、注册用户、在线投诉等。在表单填写有误时，通过JavaScript和Servlet类可以弹出错误提示。（部分代码中有注释相对应实现的功能）
 
 #### 系统结构图
-![输入图片说明](images/image-4.png)
+![系统结构图](images/image-4.png)
 
 #### 文件架构
-![输入图片说明](images/image-0.png)  
-![输入图片说明](images/image-1.png)  
-![输入图片说明](images/image-3.png)
+![文件架构-1](images/image-0.png)  
+![文件架构-2](images/image-1.png)  
+![文件架构-3](images/image-3.png)
 
 #### 项目总结
 
@@ -26,4 +26,4 @@
 #### 捐献
 
 如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~  
-![输入图片说明](images/ab64da39ed5da229cd165e48a5b002b.jpg)
+<div align=center><img src="images/ab64da39ed5da229cd165e48a5b002b.jpg" width="200px" alt="微信支付"/></div>
